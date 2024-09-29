@@ -23,4 +23,4 @@ npm run build
 npm run preview
 ```
 
-![imgage alt](image url)
+![imgage alt](https://github.com/fusion-git/Custom-theme-picker/blob/573734ffe1ae304bae4be8c69e4bbfb606397766/Screenshot.png)
